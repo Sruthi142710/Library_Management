@@ -215,11 +215,6 @@ function Dashboard() {
             <h2>Library Statistics</h2>
           </div>
 
-          <div className="live">
-            <i></i>
-            Live
-          </div>
-
         </div>
 
 
