@@ -8,7 +8,6 @@ function Dashboard() {
   const [darkMode, setDarkMode] = useState(
     localStorage.getItem("library-theme") === "dark"
   );
-
   const [dashboard, setDashboard] = useState({
     totalBooks: 0,
     totalStudents: 0,
